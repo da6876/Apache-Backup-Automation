@@ -155,11 +155,6 @@ Backups are logged into `/var/log/backup_logs.db` under the table `apache_backup
 
 ---
 
-## 👥 Contributors
-- Initial script & documentation: **[Your Name/Team]**
-
----
-
 ## 📜 License
 This project is licensed under the MIT License.  
 You are free to modify and distribute with attribution.  
